@@ -1,4 +1,8 @@
 {
   "districts": ["Research", "Development", "Security", "Trading", "Evolution"],
-  "version": 1
+  "version": 2,
+  "level_xp_multiplier": 100,
+  "max_level": 50,
+  "buildings_per_level": 1,
+  "capacity_per_level": 5
 }
